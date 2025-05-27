@@ -1,0 +1,4 @@
+genres/
+__pycache__/
+*.wav
+*.au
