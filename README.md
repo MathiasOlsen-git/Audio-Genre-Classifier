@@ -43,11 +43,11 @@ blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock
 - Successfully predicted the genre of an unseen song (e.g. `disco.00037.au` → ✔️ disco)
 
 
-## 📈 Example Output
+Example Output
 
 Confusion Matrix:
 
-![confusion matrix](path/to/your/confusion_matrix_image.png)  <!-- optional -->
+![Confusion Matrix](confusion_matrix.png)
 
 Technologies Used
 
